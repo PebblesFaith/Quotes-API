@@ -1,0 +1,22 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "I will create a basic REST API that store and provides accesses to a set of quotes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quotes",
+    "and",
+    "a",
+    "List",
+    "of",
+    "Questions"
+  ],
+  "author": "Sarai Hannah Ajai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
